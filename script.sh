@@ -1,2 +1,4 @@
 #!/bin/bash
-echo toto
+git add *
+git commit -m "commit auto"
+git push
